@@ -1,0 +1,2 @@
+2024-06-28 15:50:15	[c4b0508c-f9fa-4508-9519-fcb0dad4bf15]	This is a log message
+2024-06-28 15:50:19	[21b4514b-cad6-463e-9cce-3ceb60e9463d]	This is a log message
