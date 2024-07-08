@@ -1,0 +1,3 @@
+20240708	16:43:59	6d8dc5d5-b821-4fa7-b751-254545e5a43c	Error: Not allowed by CORS
+20240708	16:57:29	001724e3-55c0-44ce-aa3e-3ab6f393f2aa	Error: Not allowed by CORS
+20240708	16:57:29	27cc10c0-7e57-402c-9eda-31bb28dbc11b	Error: Not allowed by CORS
