@@ -1,0 +1,12 @@
+20240709	14:44:45	ad6e4d17-4672-4b85-8896-cbd98273a3ce	GET	undefined	/employees
+20240709	14:49:21	4d786e38-aa22-4645-935c-428270aa4b62	POST	undefined	/register
+20240709	14:49:29	6b04ccd6-9825-4c7c-9236-47eb95035479	GET	undefined	/register
+20240709	14:49:29	2d14ccd4-4fc7-4d0f-88f3-97721228fe85	GET	undefined	/css/style.css
+20240709	14:50:00	12507bd9-cbbf-40b0-bc72-d06f9f71185c	POST	undefined	/register
+20240709	14:50:10	721b9c01-c2f6-46fa-9575-ebe604e70958	POST	undefined	/register
+20240709	14:50:57	bb38f92f-61bb-4d6d-9b53-5eee92a0ff95	POST	undefined	/register
+20240709	14:56:51	dd33aa4b-2dbf-4b17-823b-901068bf026f	POST	undefined	/employees
+20240709	14:57:03	7b4ec819-f485-46a0-86fd-6cfb0ae67b45	POST	undefined	/auth
+20240709	14:57:12	b7eb1f96-4c13-4cbc-af0b-3304df736dbd	GET	undefined	/auth
+20240709	14:57:12	6afb05ef-2f8c-4113-a7bf-2036e20e5cad	GET	undefined	/css/style.css
+20240709	14:57:41	de459e25-0133-4515-a00b-b748bd384ac7	POST	undefined	/register
