@@ -13,3 +13,6 @@
 20211011	17:49:44	df0482cf-3962-4078-9a8e-b4712e1d8658	DELETE	undefined	/employees
 20211018	17:28:21	1827bffb-4e76-4a1f-a18b-5f30bfa1ff7b	POST	undefined	/register
 20211018	17:31:13	8dc68ee9-7d9d-49d3-bfc6-21431ad50ce9	POST	undefined	/register
+20240718	16:51:52	8b432288-9706-478c-b76b-3a44218cefdf	POST	undefined	/register
+20240718	16:54:18	02650981-38d5-4af3-ae87-719a37c07023	POST	undefined	/register
+20240718	16:57:30	2da41c55-3e02-4d9c-9689-4534f0d99e04	POST	undefined	/register
